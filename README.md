@@ -1,3 +1,5 @@
+origin: https://github.com/KohrAhr/scm-notifier
+
 ### NOTE: This repo considering as latest version of SCM Notifier
 
 
